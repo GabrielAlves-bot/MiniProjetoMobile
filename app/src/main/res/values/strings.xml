@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">trabalho_final</string>
+
+    <string name="str_myTrip">My Trip</string>
+    <string name="str_Origem">Origem: </string>
+    <string name="hint_InsertOrigem">Insira a origem...</string>
+    <string name="str_Destino">Destino</string>
+    <string name="hint_DestinoViagem">Insira o destino da viagem...</string>
+    <string name="str_Data">Data: </string>
+    <string name="hint_DataViagem">Insira a data da viagem...</string>
+    <string name="str_Memorizar">Memorizar</string>
+    <string name="str_Prosseguir">Prosseguir</string>
+    <string name="str_Sugestao">Sugestão De Viagem</string>
+    <string name="str_SugestaoViajem">Sugestão</string>
+    <string name="str_ViagemLazer">Viagem para Lazer</string>
+    <string name="str_ViagemAmigos">Viagem com amigos</string>
+    <string name="str_ViagemTrabalho">Viagem a Trabalho"</string>
+    <string name="str_viagemService">O que deseja fazer agora?</string>
+    <string name="str_str_viagemService2">Verificar imóveis no destino</string>
+    <string name="str_str_viagemService3">Vericar trajeto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

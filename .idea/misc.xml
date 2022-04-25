@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/trabalho_final/app/src/main/res/layout/activity_amplified_picture.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/trabalho_final/app/src/main/res/layout/activity_api_response.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/trabalho_final/app/src/main/res/layout/activity_listagem.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/trabalho_final/app/src/main/res/layout/activity_listar_lugares.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/trabalho_final/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/trabalho_final/app/src/main/res/layout/activity_sugestao_viagem.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/trabalho_final/app/src/main/res/layout/activity_viagem_service.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/trabalho_final/app/src/main/res/layout/custom_row.xml" value="0.5" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/trabalho_final/app/src/main/res/layout/fragment_add.xml" value="0.1" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/trabalho_final/app/src/main/res/layout/fragment_list.xml" value="0.25" />
+        <entry key="..\:/Users/Gabriel/AndroidStudioProjects/trabalho_final/app/src/main/res/layout/row.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/ruanl_000/AndroidStudioProjects/trabalho_final/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.240625" />
+        <entry key="..\:/Users/ruanl_000/AndroidStudioProjects/trabalho_final/app/src/main/res/drawable/ic_launcher_background.xml" value="0.240625" />
+        <entry key="..\:/Users/ruanl_000/AndroidStudioProjects/trabalho_final/app/src/main/res/layout/activity_amplified_picture.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/ruanl_000/AndroidStudioProjects/trabalho_final/app/src/main/res/layout/activity_api_response.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ruanl_000/AndroidStudioProjects/trabalho_final/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ruanl_000/AndroidStudioProjects/trabalho_final/app/src/main/res/layout/activity_show_image.xml" value="0.11144883485309018" />
+        <entry key="..\:/Users/ruanl_000/AndroidStudioProjects/trabalho_final/app/src/main/res/layout/activity_viagem_service.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ruanl_000/AndroidStudioProjects/trabalho_final/app/src/main/res/layout/content_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ruanl_000/AndroidStudioProjects/trabalho_final/app/src/main/res/layout/row.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/ruanl_000/AndroidStudioProjects/trabalho_final/app/src/main/res/menu/activity_main_drawer.xml" value="0.67" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
